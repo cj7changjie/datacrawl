@@ -6,7 +6,7 @@ public class dorscon_level
 {
 	public String import_File() throws IOException 
 	{
-		String fileName = "cna - Copy.csv";
+		String fileName = "cna.csv";
 		File file_coro = new File(fileName);
 		String str_sentence = "";
 		String str_dorscon = "";
