@@ -48,4 +48,23 @@ SETTING UP
      17. stanford-corenlp-3.9.2-models.jar
      18. stanford-corenlp-3.9.2-sources.jar
      
-    
+  6. Run the program from the Main.java file
+     
+     For a graphical guide follow this link:
+     https://www.youtube.com/watch?v=TJls5ZvYiho&feature=youtu.be
+     
+  7. For testing purposes, no live crawling. Instead, use the Load.csv function at the bottom of the CRAWLER tab.
+  
+  8. First ensure that you are at the Tweets tab for CRAWLER before clicking on the Load.csv button.
+  
+  9. Navigate to the project folder and select the pastTweets.csv
+  
+  10. Switch over to the CNA Articles tab and upload the testCNA_UPDATED.csv file following the steps above.
+  
+  11. To sort data by date, at the Tweets and CNA Articles tab click on the Date column header to sort by latest and oldest.
+  
+  12. To search by keywords, on the right side, there is a Search Filter box.
+  
+  13. For Sentiment Analysis, click on the Sentiment Analysis tab and click ANALYSE. This process may take a few minutes.
+  
+  14. For DORSON Analysis, click on the DORSCON Analysis tab and click ANALYSE.
