@@ -1,6 +1,6 @@
 # JavaCrawler
 
-GETTING STARTED
+## GETTING STARTED
 
  This application will allow users to crawl data from CNA and Twitter and analyse the data.
 
@@ -18,7 +18,7 @@ GETTING STARTED
   4. StanfordCoreNLP (v3.9.2)
      https://stanfordnlp.github.io/CoreNLP/
 
-SETTING UP
+## SETTING UP
   1. To setup JavaFX on Eclipse follow the following link:
     https://www.youtube.com/watch?v=oVn6_2KuYbM
     
@@ -50,21 +50,22 @@ SETTING UP
      
   6. Run the program from the Main.java file
      
+## Running the Application
      For a graphical guide follow this link:
      https://www.youtube.com/watch?v=TJls5ZvYiho&feature=youtu.be
      
-  7. For testing purposes, no live crawling. Instead, use the Load.csv function at the bottom of the CRAWLER tab.
+  1. For testing purposes, no live crawling. Instead, use the Load.csv function at the bottom of the CRAWLER tab.
   
-  8. First ensure that you are at the Tweets tab for CRAWLER before clicking on the Load.csv button.
+  2. First ensure that you are at the Tweets tab for CRAWLER before clicking on the Load.csv button.
   
-  9. Navigate to the project folder and select the pastTweets.csv
+  3. Navigate to the project folder and select the pastTweets.csv
   
-  10. Switch over to the CNA Articles tab and upload the testCNA_UPDATED.csv file following the steps above.
+  4. Switch over to the CNA Articles tab and upload the testCNA_UPDATED.csv file following the steps above.
   
-  11. To sort data by date, at the Tweets and CNA Articles tab click on the Date column header to sort by latest and oldest.
+  5. To sort data by date, at the Tweets and CNA Articles tab click on the Date column header to sort by latest and oldest.
   
-  12. To search by keywords, on the right side, there is a Search Filter box.
+  6. To search by keywords, on the right side, there is a Search Filter box.
   
-  13. For Sentiment Analysis, click on the Sentiment Analysis tab and click ANALYSE. This process may take a few minutes.
+  7. For Sentiment Analysis, click on the Sentiment Analysis tab and click ANALYSE. This process may take a few minutes.
   
-  14. For DORSON Analysis, click on the DORSCON Analysis tab and click ANALYSE.
+  8 For DORSON Analysis, click on the DORSCON Analysis tab and click ANALYSE.
