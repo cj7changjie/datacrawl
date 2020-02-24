@@ -62,7 +62,7 @@
   
   4. Switch over to the CNA Articles tab and upload the testCNA_UPDATED.csv file following the steps above.
   
-  5. To sort data by date, at the Tweets and CNA Articles tab click on the Date column header to sort by latest and oldest.
+  5. To sort data by ascending/descending order, click on the column header.
   
   6. To search by keywords, on the right side, there is a Search Filter box.
   
