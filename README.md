@@ -51,7 +51,8 @@
   6. Run the program from the Main.java file
      
 ## Running the Application
-     For a graphical guide follow this link: https://www.youtube.com/watch?v=TJls5ZvYiho&feature=youtu.be
+  For a graphical guide follow this link: 
+  https://www.youtube.com/watch?v=TJls5ZvYiho&feature=youtu.be
      
   1. For testing purposes, no live crawling. Instead, use the Load.csv function at the bottom of the CRAWLER tab.
   
